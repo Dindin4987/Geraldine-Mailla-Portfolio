@@ -31,7 +31,7 @@ export const ContactForm = () => {
               className={css.formInput}
               type="text"
               name="name"
-              placeholder="John Doe"
+              placeholder="Your name"
               required
             />
             <span className={css.formLabel}>Name *</span>
@@ -42,7 +42,7 @@ export const ContactForm = () => {
               className={css.formInput}
               type="email"
               name="email"
-              placeholder="john_doe@email.com"
+              placeholder="Your email"
               required
             />
             <span className={css.formLabel}>Email *</span>
