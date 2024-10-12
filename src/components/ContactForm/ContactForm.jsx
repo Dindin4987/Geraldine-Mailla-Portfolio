@@ -54,7 +54,7 @@ export const ContactForm = () => {
             className={css.formTextArea}
             name="message"
             rows="8"
-            placeholder="What's on your thoughts?"
+            placeholder="Send me your message!"
           ></textarea>
           <span className={css.formLabel}>Message</span>
         </label>
