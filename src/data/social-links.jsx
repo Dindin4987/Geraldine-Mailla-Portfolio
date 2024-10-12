@@ -5,12 +5,12 @@ import { IoIosMail } from 'react-icons/io';
 export const socialLinks = [
   {
     id: 1,
-    href: 'https://facebook.com/marventures11',
+    href: 'https://www.facebook.com/geraldine.itaas/',
     icon: FaFacebookF,
   },
   {
     id: 2,
-    href: 'https://linkedin.com/in/marventures',
+    href: 'https://www.linkedin.com/in/geraldine-mailla-dev/',
     icon: FaLinkedinIn,
   },
   {

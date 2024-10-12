@@ -64,7 +64,19 @@ export const aboutList4 = [
   {
     id: 1,
     company: 'GoIT Bootcamp',
-    year: '2024',
+    year: '2023 - 2024',
     position: 'Full Stack Developer',
+  },
+  {
+    id: 2,
+    company: 'Forefront Living Solution LLC',
+    year: '2022 - 2024',
+    position: 'Admin/ General Virtual Assistant',
+  },
+  {
+    id: 3,
+    company: 'Mendy Realty',
+    year: '2020-2022',
+    position: 'Real Estate Virtual Assistant',
   },
 ];
