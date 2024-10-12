@@ -8,17 +8,17 @@ export const aboutList1 = [
   {
     id: 1,
     description: 'Email',
-    value: 'juandelacruz@email.com',
+    value: 'dindinmailla4987@gmail.com',
   },
   {
     id: 2,
     description: 'Phone',
-    value: '+639123456789',
+    value: '+639569353931',
   },
   {
     id: 3,
     description: 'City',
-    value: 'Baguio City',
+    value: 'Cagayan de Oro',
   },
 ];
 
@@ -26,12 +26,12 @@ export const aboutList2 = [
   {
     id: 1,
     description: 'Skills',
-    value: 'HTML, CSS, SASS, JavaScript, React, Node',
+    value: 'HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Express, Node.js, MongoDB',
   },
   {
     id: 2,
     description: 'Hobbies',
-    value: 'Basketball, Computer Games, Hiking',
+    value: 'Programming & Tutorials, Watching Inspirational Videos & Personal Growth, Real Estate & Investment, Travel with Family',
   },
   {
     id: 3,
@@ -41,23 +41,23 @@ export const aboutList2 = [
 ];
 
 export const aboutList3 = [
-  {
-    id: 1,
-    school: 'Hogwarts University',
-    year: '2006',
-    course: 'Elementary',
-  },
-  {
-    id: 2,
-    school: 'Hogwarts University',
-    year: '2012',
-    course: 'Senior High School',
-  },
+  // {
+  //   id: 1,
+  //   school: 'Hogwarts University',
+  //   year: '2006',
+  //   course: 'Elementary',
+  // },
+  // {
+  //   id: 2,
+  //   school: 'Hogwarts University',
+  //   year: '2012',
+  //   course: 'Senior High School',
+  // },
   {
     id: 3,
-    school: 'Hogwarts University',
-    year: '2016',
-    course: 'Bachelor of Science in Computer Science',
+    school: 'University of Science and Technology of Southern Philippines',
+    year: '2008',
+    course: 'Bachelor of Science in Industrial Technology',
   },
 ];
 export const aboutList4 = [
