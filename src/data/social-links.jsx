@@ -20,7 +20,7 @@ export const socialLinks = [
   },
   {
     id: 4,
-    href: 'mailto:marvedcodes@gmail.com',
+    href: 'mailto:dindinmailla4987@gmail.com',
     icon: IoIosMail,
   },
 ];
