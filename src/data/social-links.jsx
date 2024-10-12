@@ -15,7 +15,7 @@ export const socialLinks = [
   },
   {
     id: 3,
-    href: 'https://github.com/marventures',
+    href: 'https://github.com/Dindin4987',
     icon: FaGithubAlt,
   },
   {
