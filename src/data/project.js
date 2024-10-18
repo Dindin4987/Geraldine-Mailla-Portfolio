@@ -56,7 +56,7 @@ export const projects = [
     id: 8,
     src: project8,
     name: 'Movie Search',
-    href: 'https://marventures.github.io/goit-react-hw-05-movies/',
+    href: 'https://dindin4987.github.io/goit-react-hw-05-new-movies/',
   },
   {
     id: 9,
