@@ -4,8 +4,8 @@
 
 /* CSS VARIABLES */
 :root {
-  --PRIMARY: #e85d04;
-  --SECONDARY: #f48c06;
+  --PRIMARY: rgb(110, 201, 178);
+  --SECONDARY: lightblue;
   --DARK: #303030;
   --LIGHT: #edf2f4;
 }

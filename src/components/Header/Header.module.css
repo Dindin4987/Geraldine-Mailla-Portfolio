@@ -3,7 +3,10 @@
   justify-content: space-between;
   padding: 16px 0;
   margin-bottom: 16px;
-  border-bottom: 1px solid var(--DARK);
+  font-size: 25px;
+  font-weight: bolder;
+  text-shadow: 2px 2px 5px rgba(223, 56, 56, 0.5);
+  border-bottom: 1px solid var(--PRIMARY);
 }
 
 .hamburgerIcon {
