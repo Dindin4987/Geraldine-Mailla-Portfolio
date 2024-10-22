@@ -26,12 +26,12 @@ export const aboutList2 = [
   {
     id: 1,
     description: 'Skills',
-    value: 'HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Express, Node.js, MongoDB',
+    value: 'HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Redux, Express, Node.js, MongoDB',
   },
   {
     id: 2,
     description: 'Hobbies',
-    value: 'Programming & Tutorials, Watching Inspirational Videos & Personal Growth, Real Estate & Investment, Travel with Family',
+    value: 'Watching Inspirational Videos & Personal Growth, Real Estate & Investment',
   },
   {
     id: 3,
@@ -69,14 +69,8 @@ export const aboutList4 = [
   },
   {
     id: 2,
-    company: 'Forefront Living Solution LLC',
-    year: '2022 - 2024',
-    position: 'Admin/ General Virtual Assistant',
-  },
-  {
-    id: 3,
-    company: 'Mendy Realty',
-    year: '2020-2022',
-    position: 'Real Estate Virtual Assistant',
-  },
+    company: 'Freelance',
+    year: '2020 - 2024',
+    position: 'Admin/ Real Estate/ General Virtual Assistant',
+  }
 ];
