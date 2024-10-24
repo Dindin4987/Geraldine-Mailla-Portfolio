@@ -41,18 +41,18 @@ export const aboutList2 = [
 ];
 
 export const aboutList3 = [
-  // {
-  //   id: 1,
-  //   school: 'Hogwarts University',
-  //   year: '2006',
-  //   course: 'Elementary',
-  // },
-  // {
-  //   id: 2,
-  //   school: 'Hogwarts University',
-  //   year: '2012',
-  //   course: 'Senior High School',
-  // },
+  {
+    id: 1,
+    school: 'Hogwarts University',
+    year: '2006',
+    course: 'Elementary',
+  },
+  {
+    id: 2,
+    school: 'Hogwarts University',
+    year: '2012',
+    course: 'Senior High School',
+  },
   {
     id: 3,
     school: 'University of Science and Technology of Southern Philippines',
