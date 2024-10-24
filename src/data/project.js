@@ -38,13 +38,13 @@ export const projects = [
     id: 5,
     src: project5,
     name: 'CRUD app',
-    href: '',
+    href: 'https://react-crud-app-iota.vercel.app/',
   },
   {
     id: 6,
     src: project6,
     name: 'Phonebook',
-    href: '',
+    href: 'https://dindin4987.github.io/goit-react-hw-06-phonebook/',
   },
   {
     id: 7,
