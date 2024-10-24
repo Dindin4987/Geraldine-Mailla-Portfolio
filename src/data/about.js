@@ -58,7 +58,7 @@ export const aboutList3 = [
     school: 'University of Science and Technology of Southern Philippines',
     year: '2008',
     course: 'Bachelor of Science in Industrial Technology',
-  },
+  }
 ];
 export const aboutList4 = [
   {
