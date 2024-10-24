@@ -72,5 +72,11 @@ export const aboutList4 = [
     company: 'Freelance',
     year: '2020 - 2024',
     position: 'Admin/ Real Estate/ General Virtual Assistant',
+  },
+  {
+    id: 3,
+    company: 'Corporate Employee',
+    year: '2009 - 2019',
+    position: 'Admin/ Accounting Staff',
   }
 ];
