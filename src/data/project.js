@@ -25,8 +25,8 @@ export const projects = [
   {
     id: 3,
     src: project3,
-    name: '',
-    href: '',
+    name: 'Ecommerce Website',
+    href: 'https://react-ecommerce-seven-omega.vercel.app/',
   },
   {
     id: 4,
