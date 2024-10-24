@@ -49,9 +49,9 @@ export const aboutList3 = [
   },
   {
     id: 2,
-    school: 'Misamis Oriental Gen Comprehensive High School',
+    school: 'Misamis Oriental General Comprehensive High School',
     year: '2004',
-    course: 'Senior High School',
+    course: 'High School',
   },
   {
     id: 3,
