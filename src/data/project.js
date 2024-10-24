@@ -50,7 +50,7 @@ export const projects = [
     id: 7,
     src: project7,
     name: 'SlimMom',
-    href: '',
+    href: 'https://dindin4987.github.io/SlimMom-final-project/',
   },
   {
     id: 8,
@@ -62,6 +62,6 @@ export const projects = [
     id: 9,
     src: project9,
     name: 'Expense Tracker',
-    href: '',
+    href: 'https://react-expense-tracker-ten-omega.vercel.app/',
   },
 ];
