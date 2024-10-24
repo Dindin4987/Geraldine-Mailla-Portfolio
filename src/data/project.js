@@ -31,8 +31,8 @@ export const projects = [
   {
     id: 4,
     src: project4,
-    name: '',
-    href: '',
+    name: 'Phonebook with Authentication',
+    href: 'https://dindin4987.github.io/goit-react-hw-08-phonebook/',
   },
   {
     id: 5,
