@@ -28,12 +28,12 @@
   overflow: hidden;
   z-index: 1;
   background: var(--SECONDARY);
-  box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 5px 7px 7px rgb(110, 201, 178); 
 }
 
 .projectItem::before {
   content: '';
-  background: var(--PRIMARY);
+  background: var(--SECONDARY);
   position: absolute;
   left: 30px;
   right: 30px;

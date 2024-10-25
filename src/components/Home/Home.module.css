@@ -7,6 +7,10 @@
   justify-content: space-between;
   row-gap: 20px;
 
+  .homeImage {
+    box-shadow: 5px 7px 7px rgb(110, 201, 178); 
+  }
+
   @media (min-width: 768px) {
     flex-direction: row;
     padding: 200px 0;
@@ -31,6 +35,7 @@
 
 .homeName {
   font-size: 40px;
+  text-shadow: 5px 5px 3px rgb(110, 201, 178);
 
   @media (min-width: 1024px) {
     font-size: 60px;

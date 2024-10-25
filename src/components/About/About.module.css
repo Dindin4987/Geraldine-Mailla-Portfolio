@@ -29,6 +29,7 @@
 .aboutImage {
   @media (min-width: 768px) {
     margin: 0 auto;
+    box-shadow: 5px 7px 7px rgb(110, 201, 178); 
   }
 }
 
