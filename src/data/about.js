@@ -1,7 +1,7 @@
 export const aboutMeDetails = {
   position: 'Junior Full Stack Developer',
   description:
-    "Greetings! I'm a driven developer with a passion for crafting immersive digital experiences. My expertise lies in HTML, CSS, JavaScript, React, and Node.js. Collaborating within teams has equipped me with practical experience, enhancing my ability to seamlessly integrate my skills into diverse projects",
+    "I'm a Junior Full Stack Developer equipped with a solid foundation in both frontend and backend technologies, driven to create efficient, user-friendly applications that make a difference. My strengths include HTML, CSS, JavaScript, and the MERN stack (MongoDB, Express, React, and Node.js). With over 8 years of corporate experience and 4 years as a skilled Virtual Assistant, I am now focused on building a career as a Full Stack Developer.",
 };
 
 export const aboutList1 = [
