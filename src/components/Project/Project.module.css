@@ -33,7 +33,7 @@
 
 .projectItem::before {
   content: '';
-  background: var(--SECONDARY);
+  background: var(--PRIMARY);
   position: absolute;
   left: 30px;
   right: 30px;
