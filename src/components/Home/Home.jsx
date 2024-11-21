@@ -4,7 +4,7 @@ import { Socials } from '../Socials/Socials';
 import { homeDetails } from '../../data/home';
 
 export const Home = () => {
-  const { name, position, country } = homeDetails;
+  const { name, position, country, details } = homeDetails;
 
   return (
     <div className={css.homeContainer}>
@@ -13,6 +13,7 @@ export const Home = () => {
         <p className={css.homeText}>
           I am a {position} from {country}
         </p>
+        <p>{details}</p>
         {/* Social Links Component */}
         <Socials />
       </div>
